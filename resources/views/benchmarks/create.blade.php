@@ -79,7 +79,7 @@
     <div class="p-4 max-w-l mx-auto">  
             <!-- Header -->
             <div class="mb-6">
-                <h1 class="rounded-lg rounded bg-blue-600 text-white text-sm hover:bg-blue-700">Run Benchmark</h1>
+                <h1 class="text-lg font-semibold text-gray-800">Run Benchmark</h1>
                 <p class="text-xs text-gray-500">Test network performance between servers</p>
             </div>
 
